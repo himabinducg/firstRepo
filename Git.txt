@@ -2,5 +2,6 @@ class public Git{
 public static void main(String[] args){
 	System.out.println("Working with GIT");
 	String s = "Git Usage";
+	System.out.println("Adding some statements");
 	}
 }
